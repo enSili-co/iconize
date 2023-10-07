@@ -1,5 +1,5 @@
 {
-  "name": "Iconize: Batch Photo Editor for Mac",
+  "name": "Iconize: App Icon Generator for Mac",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "Iconize",
-  "description": "Professional-quality conversion and batch-processing of photos and images from your Mac",
+  "description": "Automatic App icon generator, with multiple platforms supported + icon customization",
   "start_url": "/",
   "display": "standalone"
 }

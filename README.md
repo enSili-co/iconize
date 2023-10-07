@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>Iconize for Mac</h1>
 <p align=center>
-  Filters, photo effects, resizing, watermarks,<br>...anything you've been looking for in a photo-editing app.<br><br>With the speed and class of a Mac.
+  Customizeable? Mac? iOS? Android? Perhaps, a "favicon" for your website?<br><br>Iconize has got you covered.
 </p>
 
 
