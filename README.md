@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>Iconize for Mac</h1>
 <p align=center>
-  Customizeable? Mac? iOS? Android? Perhaps, a "favicon" for your website?<br><br>Iconize has got you covered.
+  Customizeable icons? Mac? iOS? Android?<br>Perhaps, a "favicon" for your website?<br><br>Iconize has got you covered.
 </p>
 
 
