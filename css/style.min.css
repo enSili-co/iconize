@@ -1,12 +1,4 @@
 @charset "UTF-8";
-.light-bg {
-  background-color: #e8f2f1 !important;
-}
-
-.navbar-brand {
-  font-size: 1.25em !important;
-}
-
 /*
 
 Style   : MobApp CSS
@@ -226,10 +218,10 @@ header {
 }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #315856 0%, #64a6a2 100%);
-  background-image: -webkit-linear-gradient(135deg, #315856 0%, #64a6a2 100%);
-  background-image: -ms-linear-gradient(135deg, #315856 0%, #64a6a2 100%);
-  background-image: linear-gradient(135deg, #315856 0%, #64a6a2 100%);
+  background-image: -moz-linear-gradient(135deg, #421d52 0%, #70318A 100%);
+  background-image: -webkit-linear-gradient(135deg, #421d52 0%, #70318A 100%);
+  background-image: -ms-linear-gradient(135deg, #421d52 0%, #70318A 100%);
+  background-image: linear-gradient(135deg, #421d52 0%, #70318A 100%);
 }
 
 .tagline {
@@ -262,10 +254,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #4C8986;
-  background: -moz-linear-gradient(top, #4C8986 0%, #4C8986 100%);
-  background: -webkit-linear-gradient(top, #4C8986 0%, #4C8986 100%);
-  background: linear-gradient(to bottom, #4C8986 0%, #4C8986 100%);
+  color: #9D549F;
+  background: -moz-linear-gradient(top, #9D549F 0%, #9D549F 100%);
+  background: -webkit-linear-gradient(top, #9D549F 0%, #9D549F 100%);
+  background: linear-gradient(to bottom, #9D549F 0%, #9D549F 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -290,10 +282,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #4C8986;
-  background: -moz-linear-gradient(top, #4C8986 0%, #4C8986 100%);
-  background: -webkit-linear-gradient(top, #4C8986 0%, #4C8986 100%);
-  background: linear-gradient(to bottom, #4C8986 0%, #4C8986 100%);
+  color: #9D549F;
+  background: -moz-linear-gradient(top, #9D549F 0%, #9D549F 100%);
+  background: -webkit-linear-gradient(top, #9D549F 0%, #9D549F 100%);
+  background: linear-gradient(to bottom, #9D549F 0%, #9D549F 100%);
   top: 0;
   bottom: 0;
   left: 0;
