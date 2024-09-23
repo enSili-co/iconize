@@ -11,11 +11,11 @@
 
 # Download for free (3-day trial)
 
-▶︎ 
+▶︎ https://ensili.co/download/iconize/Iconize-1.2.zip
 
 # Official Website
 
-▶︎ https://iconize.app
+▶︎ https://ensili.co/app/iconize
 
 # Issues
 
